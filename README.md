@@ -25,7 +25,7 @@ Students will be put into 3 or 4 person groups to complete the project.\n
 - Throughout most of the project, we worked as pairs tackling sections at a time, where each took different user stories and would build the functionality. After, each would review the other's work, put in a Pull Request to the rest of the team, who would then review the completed section together, and merge to master.
 
 ## Heroku
-- Deployed on: https://stormy-mountain-44118.herokuapp.com/
+- Deployed on: https://monster-shop-application.herokuapp.com/
 
 ## Group Member Experiences
 ```
